@@ -435,16 +435,6 @@ img.in-text {
   display: block;
 }
 
-.line-clamp-2 {
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-}
-
-.line-clamp-3 {
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-}
-
 .backdrop-blur {
   backdrop-filter: blur(8px);
 }
