@@ -5,11 +5,11 @@
     <link>https://cine-movies.github.io/tags/</link>
     <description>Recent content in Tags on Cine Movie</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cine-movies.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cine-movies.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>动作片</title>
       <link>https://cine-movies.github.io/tags/%E5%8A%A8%E4%BD%9C%E7%89%87/</link>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>https://cine-movies.github.io/tags/%E5%8A%A8%E4%BD%9C%E7%89%87/</guid>
       <description></description>
@@ -18,9 +18,27 @@
     <item>
       <title>动画片</title>
       <link>https://cine-movies.github.io/tags/%E5%8A%A8%E7%94%BB%E7%89%87/</link>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>https://cine-movies.github.io/tags/%E5%8A%A8%E7%94%BB%E7%89%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>喜剧片</title>
+      <link>https://cine-movies.github.io/tags/%E5%96%9C%E5%89%A7%E7%89%87/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cine-movies.github.io/tags/%E5%96%9C%E5%89%A7%E7%89%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>纪录片</title>
+      <link>https://cine-movies.github.io/tags/%E7%BA%AA%E5%BD%95%E7%89%87/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cine-movies.github.io/tags/%E7%BA%AA%E5%BD%95%E7%89%87/</guid>
       <description></description>
     </item>
     
@@ -30,24 +48,6 @@
       <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>https://cine-movies.github.io/tags/%E7%88%B1%E6%83%85%E7%89%87/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>喜剧片</title>
-      <link>https://cine-movies.github.io/tags/%E5%96%9C%E5%89%A7%E7%89%87/</link>
-      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://cine-movies.github.io/tags/%E5%96%9C%E5%89%A7%E7%89%87/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>纪录片</title>
-      <link>https://cine-movies.github.io/tags/%E7%BA%AA%E5%BD%95%E7%89%87/</link>
-      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://cine-movies.github.io/tags/%E7%BA%AA%E5%BD%95%E7%89%87/</guid>
       <description></description>
     </item>
     
