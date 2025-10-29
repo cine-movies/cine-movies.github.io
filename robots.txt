@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cine-movies.github.io/sitemap.xml
