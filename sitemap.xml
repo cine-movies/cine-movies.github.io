@@ -2,19 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cine-movies.github.io/posts/tomb-of-fallen-gods/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cine-movies.github.io/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/tags/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/tags/%E5%8A%A8%E7%94%BB%E7%89%87/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/the-grand-lord/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/douluo-dalu-peerless-tang-se/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/the-rip/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/sword-of-coming/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cine-movies.github.io/tags/%E5%8A%A8%E7%94%BB%E7%89%87/</loc>
+    <loc>https://cine-movies.github.io/tags/%E5%8A%A8%E4%BD%9C%E7%89%87/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/divine-manifestation/</loc>
@@ -23,19 +38,28 @@
     <loc>https://cine-movies.github.io/posts/perfect-world-animated-version/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://cine-movies.github.io/tags/%E6%81%90%E6%80%96%E7%89%87/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cine-movies.github.io/posts/love-through-a-prism/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://cine-movies.github.io/posts/spongebob-movie-4/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/the-expendables/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cine-movies.github.io/posts/apotheosis/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/the-twilight-zonethe-twilight/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/yaochinese-folktales/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/sword-and-fairy-3/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/tags/%E5%8A%A8%E4%BD%9C%E7%89%87/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/will-smiths-polar-aspectswill/</loc>
@@ -69,9 +93,6 @@
     <lastmod>2026-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/tags/%E5%96%9C%E5%89%A7%E7%89%87/</loc>
-    <lastmod>2026-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/tags/%E6%81%90%E6%80%96%E7%89%87/</loc>
     <lastmod>2026-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/the-last-adventure-a-behindthe/</loc>
@@ -116,9 +137,6 @@
     <loc>https://cine-movies.github.io/posts/battle-through-the-sphere-anim/</loc>
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cine-movies.github.io/posts/douluo-dalu-peerless-tang-se/</loc>
-    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cine-movies.github.io/posts/tales-of-qin-mu/</loc>
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -130,12 +148,6 @@
   </url><url>
     <loc>https://cine-movies.github.io/posts/gto-revival/</loc>
     <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/posts/tomb-of-fallen-gods/</loc>
-    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/posts/the-grand-lord/</loc>
-    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/invisible-murderhidden-enemy/</loc>
     <lastmod>2026-01-09T00:00:00+00:00</lastmod>
