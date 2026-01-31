@@ -2,20 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cine-movies.github.io/posts/time-bomb/</loc>
+    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cine-movies.github.io/</loc>
-    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/</loc>
-    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/tags/</loc>
-    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/three-kingdoms-starlit-heroes/</loc>
+    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/tags/%E5%8A%A8%E4%BD%9C%E7%89%87/</loc>
-    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/tags/%E5%8A%A8%E7%94%BB%E7%89%87/</loc>
-    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/david-david-the-coming-of-the/</loc>
     <lastmod>2026-01-29T00:00:00+00:00</lastmod>
@@ -279,6 +285,9 @@
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/hunters/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/hunting-fanatics/</loc>
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/pocket-money/</loc>
