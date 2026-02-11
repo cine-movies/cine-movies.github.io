@@ -3,13 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cine-movies.github.io/</loc>
-    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/</loc>
-    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/tags/</loc>
-    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/tags/%E5%8A%A8%E7%94%BB%E7%89%87/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/shrouding-the-heavens/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/tags/%E5%8A%A8%E4%BD%9C%E7%89%87/</loc>
+    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/tags/%E6%81%90%E6%80%96%E7%89%87/</loc>
+    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/the-shadows-edge/</loc>
+    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/badlands/</loc>
+    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/the-daily-life-of-the-immortal/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
@@ -21,12 +39,6 @@
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/under-current/</loc>
-    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/tags/%E5%8A%A8%E4%BD%9C%E7%89%87/</loc>
-    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/tags/%E5%8A%A8%E7%94%BB%E7%89%87/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/devouring-the-starry-sky/</loc>
@@ -137,9 +149,6 @@
     <loc>https://cine-movies.github.io/posts/throne-of-seal/</loc>
     <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cine-movies.github.io/posts/shrouding-the-heavens/</loc>
-    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cine-movies.github.io/posts/-underground-gladiatordark-dea/</loc>
     <lastmod>2026-02-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -163,9 +172,6 @@
   </url><url>
     <loc>https://cine-movies.github.io/posts/-hans-zimmer-and-friends-deser/</loc>
     <lastmod>2026-02-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/posts/the-shadows-edge/</loc>
-    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/happy-smekday/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
@@ -204,9 +210,6 @@
     <lastmod>2026-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/kombucha/</loc>
-    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/tags/%E6%81%90%E6%80%96%E7%89%87/</loc>
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/mr-zheng/</loc>
@@ -414,9 +417,6 @@
     <lastmod>2026-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/curious-tales-of-a-temple/</loc>
-    <lastmod>2026-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/posts/badlands/</loc>
     <lastmod>2026-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/demon-slayer-kimetsu-no-yaiba/</loc>
