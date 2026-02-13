@@ -3,24 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cine-movies.github.io/</loc>
-    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/</loc>
-    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/tags/</loc>
-    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/irmandade/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/tags/%E5%8A%A8%E4%BD%9C%E7%89%87/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/tags/%E5%8A%A8%E7%94%BB%E7%89%87/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/tags/%E5%96%9C%E5%89%A7%E7%89%87/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/perfect-world-animated-version/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/my-senior-brother-is-too-stead/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/is-the-mic-on/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/tags/%E7%88%B1%E6%83%85%E7%89%87/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/strawberry-moon/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/sword-and-fairy-3/</loc>
     <lastmod>2026-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/sword-of-coming/</loc>
-    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/tags/%E5%8A%A8%E4%BD%9C%E7%89%87/</loc>
-    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/tags/%E5%8A%A8%E7%94%BB%E7%89%87/</loc>
     <lastmod>2026-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/divine-manifestation/</loc>
@@ -30,9 +51,6 @@
     <lastmod>2026-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/ultimate-revenge/</loc>
-    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/tags/%E7%88%B1%E6%83%85%E7%89%87/</loc>
     <lastmod>2026-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/the-gate-of-mystical-realm/</loc>
@@ -104,16 +122,10 @@
     <loc>https://cine-movies.github.io/posts/never-leave-never-give-up-2026/</loc>
     <lastmod>2026-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cine-movies.github.io/tags/%E5%96%9C%E5%89%A7%E7%89%87/</loc>
-    <lastmod>2026-02-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cine-movies.github.io/posts/chess-queen/</loc>
     <lastmod>2026-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/the-grand-lord/</loc>
-    <lastmod>2026-02-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/posts/perfect-world-animated-version/</loc>
     <lastmod>2026-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/a-war-untold/</loc>
@@ -138,9 +150,6 @@
     <lastmod>2026-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/yaochinese-folktales/</loc>
-    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/posts/my-senior-brother-is-too-stead/</loc>
     <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/lucy-lebbys-investigation/</loc>
