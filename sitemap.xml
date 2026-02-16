@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cine-movies.github.io/posts/tomb-of-fallen-gods/</loc>
-    <lastmod>2026-02-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cine-movies.github.io/</loc>
-    <lastmod>2026-02-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/</loc>
-    <lastmod>2026-02-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/tags/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/never-alone-again/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/renegade-immortal/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/tags/%E5%8A%A8%E7%94%BB%E7%89%87/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/tags/%E5%96%9C%E5%89%A7%E7%89%87/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/untitled-the-bad-boy-and-me-se/</loc>
+    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/tags/%E7%88%B1%E6%83%85%E7%89%87/</loc>
+    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/diamond/</loc>
+    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/tomb-of-fallen-gods/</loc>
     <lastmod>2026-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/the-outcast-3/</loc>
@@ -20,13 +41,7 @@
     <loc>https://cine-movies.github.io/posts/yaochinese-folktales/</loc>
     <lastmod>2026-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cine-movies.github.io/tags/%E5%8A%A8%E7%94%BB%E7%89%87/</loc>
-    <lastmod>2026-02-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cine-movies.github.io/posts/-to-hell-with-valentines-day/</loc>
-    <lastmod>2026-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/tags/%E5%96%9C%E5%89%A7%E7%89%87/</loc>
     <lastmod>2026-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/the-grand-lord/</loc>
@@ -59,17 +74,11 @@
     <loc>https://cine-movies.github.io/posts/bursting-pipes/</loc>
     <lastmod>2026-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cine-movies.github.io/tags/%E7%88%B1%E6%83%85%E7%89%87/</loc>
-    <lastmod>2026-02-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cine-movies.github.io/posts/joes-college-road-trip/</loc>
     <lastmod>2026-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/spider-fairy/</loc>
     <lastmod>2026-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/posts/never-alone-again/</loc>
-    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/let-the-music-fly/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
@@ -132,9 +141,6 @@
     <lastmod>2026-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/the-daily-life-of-the-immortal/</loc>
-    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/posts/renegade-immortal/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/beyond-times-gaze/</loc>
