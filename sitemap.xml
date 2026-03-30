@@ -2,16 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cine-movies.github.io/posts/bts-the-return/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cine-movies.github.io/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/tags/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/hit-n-fun/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/tags/%E5%8A%A8%E4%BD%9C%E7%89%87/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/prime-ministerflexible-governa/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/tags/%E7%BA%AA%E5%BD%95%E7%89%87/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/serious-crimenot-guilty/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cine-movies.github.io/posts/bts-the-return/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/the-outcast-3/</loc>
@@ -62,14 +77,8 @@
     <loc>https://cine-movies.github.io/posts/the-prosecutor/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cine-movies.github.io/tags/%E7%BA%AA%E5%BD%95%E7%89%87/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cine-movies.github.io/posts/every-dog-has-its-day/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/tags/%E5%8A%A8%E4%BD%9C%E7%89%87/</loc>
-    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/mediocre-hal-shallow-hal-pig-p/</loc>
     <lastmod>2026-03-27T00:00:00+00:00</lastmod>
@@ -1240,9 +1249,6 @@
   </url><url>
     <loc>https://cine-movies.github.io/posts/alles-voller-monster/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cine-movies.github.io/posts/hit-n-fun/</loc>
-    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cine-movies.github.io/posts/earth-correspondentelliotalien/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
